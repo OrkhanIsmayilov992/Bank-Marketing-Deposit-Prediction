@@ -1,6 +1,6 @@
 # Bank Marketing Deposit Prediction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrkhanIsmayilov992/Bank-Marketing-Deposit-Prediction/blob/main/Bank_Marketing_Deposit_Prediction_Model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OrkhanIsmayilov992/Bank-Marketing-Deposit-Prediction/blob/main/Bank_Marketing_Deposit_Prediction_Model%20(2).ipynb)
 
 Predicting term deposit subscriptions using machine learning.
 
